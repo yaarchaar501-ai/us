@@ -1,0 +1,11 @@
+Apni photos is folder mein copy karo.
+Recommended filenames:
+photo1.jpg
+photo2.jpg
+photo3.jpg
+photo4.jpg
+photo5.jpg
+photo6.jpg
+
+Agar photos ke naam alag hain, src/main.jsx mein PHOTO_FILES list update kar dena.
+JPG, JPEG, PNG aur WEBP supported hain.

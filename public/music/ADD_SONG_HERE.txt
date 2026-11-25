@@ -1,0 +1,5 @@
+Apna song is folder mein copy karo aur naam rakho:
+our-song.mp3
+
+Agar file ka naam alag hai, src/main.jsx mein SONG_FILE update kar dena.
+Browser mein music chalane ke liye Alka ko Play button dabana hoga.
